@@ -2,4 +2,4 @@ streamlit
 openai
 pandas
 sqlalchemy
-python-dot-env
+python-dotenv
